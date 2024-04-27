@@ -1,4 +1,8 @@
 # HidakiNetworks
+<p>
+<img src="https://cdn.discordapp.com/attachments/1156506398323130368/1233875286865477632/hidaki_screen_1.png">
+</p>
+
 this is a source of [HidakiNetworks](https://t.me/hidakiteam) botnet\
 Tested on Debian 10, 11 and Ubuntu 18.04, 20.04
 
@@ -26,6 +30,7 @@ rm README.md
 gcc server.c -o srv -pthread
 python2 compile.py
 ```
+You will get payload from compile.py
 
 **Starting cnc**
 ```bash
