@@ -6,6 +6,9 @@
 this is a source of [HidakiNetworks](https://t.me/hidakiteam) botnet\
 Tested on Debian 10, 11 and Ubuntu 18.04, 20.04
 
+## Connecting to cnc
+You must connect using raw connection type (putty)
+
 ## Installing
 Guide for Ubuntu/Debian\
 **Installing dependencies**
