@@ -40,7 +40,7 @@ screen ./srv 4258 1 <cnc port here>
 ## Adding users
 For adding user, you must add a string in users/login.txt.\
 <name> <pass> <group> <time> <cooldown> <attacks> <expire>
-Example: root shittzukamygod 9999 3 10 99/99/9999
+Example: root shittzukamygod admin 9999 3 10 99/99/9999
 
 ## Credits
 [HidakiTeam](https://t.me/hidakiteam) - Created botnet\
