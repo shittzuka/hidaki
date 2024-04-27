@@ -11,8 +11,7 @@ Guide for Ubuntu/Debian\
 **Installing dependencies**
 ```bash
 apt update && apt upgrade -y
-apt install libbz2-1.0 libc6 liblzma5 perl zlib1g bzip2 python2 -y
-apt install deltarpm -y
+apt install libbz2-1.0 libc6 liblzma5 perl zlib1g bzip2 python2 python -y
 apt install nano screen gcc wget libzip-dev unzip git apache2 -y
 ```
 
@@ -40,8 +39,8 @@ screen ./srv 4258 1 <cnc port here>
 
 ## Adding users
 For adding user, you must add a string in users/login.txt.\
-NAME PASS GROUP MAX_ATTACK_TIME COOLDOWN MAX_ATTACK_COUNT EXPIRE_DATE\
-Example: root shittzukamygpd 9999 3 10 99/99/9999
+<name> <pass> <group> <time> <cooldown> <attacks> <expire>
+Example: root shittzukamygod 9999 3 10 99/99/9999
 
 ## Credits
 [HidakiTeam](https://t.me/hidakiteam) - Created botnet\
