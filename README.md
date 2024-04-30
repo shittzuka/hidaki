@@ -1,6 +1,6 @@
 # HidakiNetworks
 <p>
-<img src="https://cdn.discordapp.com/attachments/1156506398323130368/1233875286865477632/hidaki_screen_1.png">
+<img src="https://cdn.discordapp.com/attachments/1156506398323130368/1233875286865477632/hidaki_screen_1.png?ex=662eaf68&is=662d5de8&hm=492077befb8c34b62b35e14e6470815aeaf42daaf4195b3e23df4d6b96ea1d26&">
 </p>
 
 this is a source of [HidakiNetworks](https://t.me/hidakiteam) botnet\
