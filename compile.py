@@ -42,7 +42,7 @@ getarch = ['https://landley.net/aboriginal/downloads/old/binaries/1.2.6/cross-co
            'https://landley.net/aboriginal/downloads/old/binaries/1.2.6/cross-compiler-armv4l.tar.bz2',        #downloading -> arm4      
            'https://landley.net/aboriginal/downloads/old/binaries/1.2.6/cross-compiler-armv5l.tar.bz2',        #downloading -> arm5      
            'https://landley.net/aboriginal/downloads/old/binaries/1.2.6/cross-compiler-armv6l.tar.bz2',   #downloading -> arm6
-           'https://landley.net/aboriginal/downloads/old/binaries/1.2.6/cross-compiler-armv7l.tar.bz2']#downloading -> arm7              
+           'https://github.com/R00tS3c/DDOS-RootSec/raw/refs/heads/master/uclib-cross-compilers/cross-compiler-armv7l.tar.bz2']#downloading -> arm7              
 
 ccs = ["cross-compiler-mips",
        "cross-compiler-mipsel",
